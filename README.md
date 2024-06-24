@@ -1,4 +1,6 @@
 # LLM_PROJECT
+A large language model is a computational model recognized for its capacity to perform general-purpose language generation and various natural language processing tasks.
+
 Equity_Research_Analysis
 
 News Research Tool- WE can give bunch of news article url links to this tool and it will retrive the answer based on those news articles. Also, can select chunks for relevent link from where ans will be available.
