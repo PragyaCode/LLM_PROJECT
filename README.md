@@ -1,4 +1,5 @@
-# LLM_PROJECT
+# LLM_PROJECT:
+
 A large language model is a computational model recognized for its capacity to perform general-purpose language generation and various natural language processing tasks.
 
 Equity_Research_Analysis
