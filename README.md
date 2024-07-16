@@ -11,4 +11,4 @@ Work Flow:
 1) Articles---Web scrapeper---OpenAI Embeddings will convert the text into---data vectorbase using AI or Lama or bird etc--- using Milverse Chroma, pine code to make database injection system
 2) Chat Bot---question gets convert into open embeddings---vectordata base---pull relevent chunk (which matches with the question)---ULM
 
-Technologies Used- LangChain, OpenAI, Streamlit.
+Technologies Used- LangChain, OpenAI, Streamlit
